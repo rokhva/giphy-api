@@ -18,6 +18,8 @@
 }
 #giphyContainer{
     margin-left: 3%;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 
